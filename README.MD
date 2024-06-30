@@ -10,4 +10,5 @@ Note: You need Node.js and npm installed on your machine.
 npm install then npm run dev
 
 To run this directly to your host network
+
 npm run dev -- --host
