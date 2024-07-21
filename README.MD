@@ -19,5 +19,4 @@ then change directory into the portfolio folder and run the code below
 - npm install then npm run dev
 
 To run this directly to your host network
-
-npm run dev -- --host
+- npm run dev -- --host
