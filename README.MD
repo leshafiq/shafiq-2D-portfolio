@@ -16,7 +16,7 @@ Simply run these codes:
 - sudo apt install -y nodejs
 
 then change directory into the portfolio folder and run the code below
-npm install then npm run dev
+- npm install then npm run dev
 
 To run this directly to your host network
 
